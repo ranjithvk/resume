@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Ranjith Valiyodiyil Karunakaran
-title: Applications Development Manager
+title: Software Professional
 email: ranjith@valiyodiyil.com
-website: www.valiyodiyil.com
+website: https://valiyodiyil.com/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -31,9 +31,9 @@ youtube_username: ranjithvk
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: valiyodiyil.com
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://valiyodiyil.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Ranjith Valiyodiyil Karunakaran. 
 
-  I am most skilled in: <mark>Enterprise application archtecting</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Enterprise application architecture</mark> and <mark>Project Management</mark>
 
 content:
   - title: Projects # Title for the section
