@@ -72,11 +72,20 @@ content:
     content:
       - layout: left
         title: Anand Track and Field
-        content: | # this will include new lines to allow paragraphs
-          Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-          - Rock climbing
-          - Gaming
-          - Knitting
+        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            -	Co-ordinated with design team to develop CAD models. All models required to be within industrial guidelines.
+                - Discuses.
+                - Take off board.
+                - Hurdle stands.
+            -	Provided design improvements to brand logo for branding via CNC to accommodate provided dimensions.
+            -	Participated in manufacturing processes using lathes such as turning and facing for products.
+            -	Aided storage and packaging departments by providing more ideal storage and listing options for better workflow.
       - layout: left
         title: Delphi Technologies
         link: boringcompany.com
