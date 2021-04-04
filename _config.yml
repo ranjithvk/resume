@@ -98,32 +98,49 @@ content:
             -	Supported validation and inspection engineers for inspection of connectors used in commercial cars. 
             -	Learned about various electronic components for automotive manufactured at the factory.
             -	Built an understanding how connectors work within hybrid electric vehicles and its necessity.
-  - title: Education # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Designing and building a fully functional RC car for competitive racing
+        link: 
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: 
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
+            -	Co-ordinated with design team to develop CAD models. All models required to be within industrial guidelines.
+                - Discuses.
+                - Take off board.
+                - Hurdle stands.
+            -	Provided design improvements to brand logo for branding via CNC to accommodate provided dimensions.
+            -	Participated in manufacturing processes using lathes such as turning and facing for products.
+            -	Aided storage and packaging departments by providing more ideal storage and listing options for better workflow.
+      - layout: left
+        title: Design and Analysis of low-cost haptic paddle for academic application
+        link: 
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: 
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            -	Supported validation and inspection engineers for inspection of connectors used in commercial cars. 
+            -	Learned about various electronic components for automotive manufactured at the factory.
+            -	Built an understanding how connectors work within hybrid electric vehicles and its necessity.
+      - layout: left
+        title: Handwritten character recognition with Neural Network
+        link: 
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: 
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            -	Supported validation and inspection engineers for inspection of connectors used in commercial cars. 
+            -	Learned about various electronic components for automotive manufactured at the factory.
+            -	Built an understanding how connectors work within hybrid electric vehicles and its necessity.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
