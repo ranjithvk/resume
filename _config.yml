@@ -101,7 +101,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: list
         title: Designing and building a fully functional RC car for competitive racing
         link: 
         # link_text: boringcompany.com
@@ -127,7 +127,7 @@ content:
             -	Kinematic equations were calculated, and position feedback was achieved.
             -	Co-ordinated with team mate to develop codes and design paddle.
             -	Carried out virtual tests to discover errors and optimize device.
-      - layout: left
+      - layout: list
         title: Handwritten character recognition with Neural Network
         link: 
         # link_text: boringcompany.com
