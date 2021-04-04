@@ -99,9 +99,9 @@ content:
             -	Learned about various electronic components for automotive manufactured at the factory.
             -	Built an understanding how connectors work within hybrid electric vehicles and its necessity.
   - title: Projects # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
-      - layout: text
+      - layout: left
         title: Designing and building a fully functional RC car for competitive racing
         link: 
         # link_text: boringcompany.com
@@ -114,7 +114,7 @@ content:
             -	Worked on the transmitter-receiver to achieve fully wireless control of each motor independently.	
             -	Debugged the circuitry to assure complete functionality. 
             -	Developed working logic for RC car using differential drive algorithm.
-        - layout: text
+        - layout: left
         title: Design and Analysis of low-cost haptic paddle for academic application
         link: 
         # link_text: boringcompany.com
@@ -127,7 +127,7 @@ content:
             -	Kinematic equations were calculated, and position feedback was achieved.
             -	Co-ordinated with team mate to develop codes and design paddle.
             -	Carried out virtual tests to discover errors and optimize device.
-      - layout: text
+      - layout: left
         title: Handwritten character recognition with Neural Network
         link: 
         # link_text: boringcompany.com
