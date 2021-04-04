@@ -72,12 +72,12 @@ content:
     content:
       - layout: left
         title: Anand Track and Field
-        link: boringcompany.com
+        link: 
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: 
+        caption: 
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          
         description: | # this will include new lines to allow paragraphs
             -	Co-ordinated with design team to develop CAD models. All models required to be within industrial guidelines.
                 - Discuses.
@@ -88,12 +88,12 @@ content:
             -	Aided storage and packaging departments by providing more ideal storage and listing options for better workflow.
       - layout: left
         title: Delphi Technologies
-        link: boringcompany.com
+        link: 
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: 
+        caption: 
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          
         description: | # this will include new lines to allow paragraphs
             -	Supported validation and inspection engineers for inspection of connectors used in commercial cars. 
             -	Learned about various electronic components for automotive manufactured at the factory.
