@@ -40,28 +40,20 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Gokul Rajeeve and I completed BTech in Mechatronics from Manipal Institute of Technology in 2020.  I am a technology enthusiast and would like to get involved in building systems.
 
-  My interest areas are: <mark>Python</mark> and <mark>Robotics</mark>
+  My interest areas are: <mark>Programming</mark>, <mark>Data Science</mark> and <mark>Robotics</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        title:BTech. in Mechatronics
+        link: https://manipal.edu/mit.html
+        link_text: Manipal Institute of Technology
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Manipal University, Manipal, Karnataka
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          **Related Courses:** AI, Machine Vision and Image Processing, Robotic Dynamics and Control, Robotic Path Planning, Hydraulic and Pneumatic system, Essentials of Information Technology, Microcontroller Based System Design, Mechatronic System designs
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
