@@ -54,6 +54,19 @@ content:
           Manipal University, Manipal, Karnataka
         description: | # this will include new lines to allow paragraphs
           **Related Courses:** AI, Machine Vision and Image Processing, Robotic Dynamics and Control, Robotic Path Planning, Hydraulic and Pneumatic system, Essentials of Information Technology, Microcontroller Based System Design, Mechatronic System designs
+  - title: Technical Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - **Langauges:**    C++, Python, MATLAB 
+      - **Web Technologies:**    HTML5, CSS3, Static Site Generators (Jekyll) 
+      - **Others:**    MySQL, DBMS, CAD, Lathe Operation, PLC, CNC , RHINO
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Can adapt to diverse team environments
+      - Proficient in both oral and written communication skills
+      - Quick learner
+      - Problem solving and analytical skills
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
