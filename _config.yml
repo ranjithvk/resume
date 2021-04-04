@@ -1,39 +1,29 @@
 # Site
-repository: ranjithvk/resume-theme
+repository: gokulrajeeve/resume
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Ranjith Valiyodiyil Karunakaran
-title: Software Professional
-email: ranjith@valiyodiyil.com
-website: https://valiyodiyil.com/
+name: Gokul Rajeeve
+title: B.Tech Mechatronics
+email: me@gokulrajeeve.com
+website: gokulrajeeve.com
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: ranjithvk
-github_username:  ranjithvk
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-#instagram_username: jameswgrant
-linkedin_username: ranjith-karunakaran-68166a2
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: ranjithvk
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+
+linkedin_username: gokulrajeeve
+
 
 # Additional icon links
 additional_links:
-- title: valiyodiyil.com
+- title: gokulrajeeve.com
   icon: fas fa-globe
-  url: https://valiyodiyil.com
+  url: https://gokulrajeeve.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +38,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ranjith Valiyodiyil Karunakaran. 
+  Hi, my name is Gokul Rajeeve and I completed BTech in Mechatronics from Manipal Institute of Technology in 2020.  I am a technology enthusiast and would like to get involved in building systems.
 
-  I am most skilled in: <mark>Enterprise application architecture</mark> and <mark>Project Management</mark>
+  My interest areas are: <mark>Python</mark> and <mark>Robotics</mark>
 
 content:
   - title: Projects # Title for the section
