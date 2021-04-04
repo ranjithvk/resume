@@ -110,14 +110,11 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            -	Co-ordinated with design team to develop CAD models. All models required to be within industrial guidelines.
-                - Discuses.
-                - Take off board.
-                - Hurdle stands.
-            -	Provided design improvements to brand logo for branding via CNC to accommodate provided dimensions.
-            -	Participated in manufacturing processes using lathes such as turning and facing for products.
-            -	Aided storage and packaging departments by providing more ideal storage and listing options for better workflow.
-      - layout: left
+            -	Successfully coordinated with team mates to deliver fully functional RC assembling and programming the car from scratch.
+            -	Worked on the transmitter-receiver to achieve fully wireless control of each motor independently.	
+            -	Debugged the circuitry to assure complete functionality. 
+            -	Developed working logic for RC car using differential drive algorithm.
+                  - layout: left
         title: Design and Analysis of low-cost haptic paddle for academic application
         link: 
         # link_text: boringcompany.com
@@ -126,9 +123,10 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            -	Supported validation and inspection engineers for inspection of connectors used in commercial cars. 
-            -	Learned about various electronic components for automotive manufactured at the factory.
-            -	Built an understanding how connectors work within hybrid electric vehicles and its necessity.
+            -	Haptic paddle was designed to achieve bidirectional haptic force feedback in both X and Y axis. This 2 DOF device allows the user to experience a wide range of virtual scenarios considering the single axis haptic paddle. We built an understanding of the impact of such devices when integrated in course curriculums to aid students with hand-on experience.
+            -	Kinematic equations were calculated, and position feedback was achieved.
+            -	Co-ordinated with team mate to develop codes and design paddle.
+            -	Carried out virtual tests to discover errors and optimize device.
       - layout: left
         title: Handwritten character recognition with Neural Network
         link: 
@@ -138,9 +136,10 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            -	Supported validation and inspection engineers for inspection of connectors used in commercial cars. 
-            -	Learned about various electronic components for automotive manufactured at the factory.
-            -	Built an understanding how connectors work within hybrid electric vehicles and its necessity.
+            -	Streaming alphabets via camera in real time and obtaining optical character recognition of the English alphabets using OpenCV.
+            -	Dataset was split into train set to train model and test set to evaluate performance of the model.
+            -	Worked on SVM for data classification.
+            -	Each iteration yielded favorable results, adding successful iterations to test set to perfect the neural network.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
