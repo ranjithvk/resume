@@ -114,7 +114,7 @@ content:
             -	Worked on the transmitter-receiver to achieve fully wireless control of each motor independently.	
             -	Debugged the circuitry to assure complete functionality. 
             -	Developed working logic for RC car using differential drive algorithm.
-                  - layout: left
+        - layout: list
         title: Design and Analysis of low-cost haptic paddle for academic application
         link: 
         # link_text: boringcompany.com
