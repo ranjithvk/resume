@@ -46,14 +46,14 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title:BTech. in Mechatronics
-        link: https://manipal.edu/mit.html
-        link_text: Manipal Institute of Technology
+      - layout: left
+        title: Manipal Institute of Technology
+        caption: 2016 - 2020
+        sub_title: BTech. in Mechatronic                                                                                                                 
         quote: >
           Manipal University, Manipal, Karnataka
         description: | # this will include new lines to allow paragraphs
-          **Related Courses:** AI, Machine Vision and Image Processing, Robotic Dynamics and Control, Robotic Path Planning, Hydraulic and Pneumatic system, Essentials of Information Technology, Microcontroller Based System Design, Mechatronic System designs
+          Related Courses: AI, Machine Vision and Image Processing, Robotic Dynamics and Control, Robotic Path Planning, Hydraulic and Pneumatic system, Essentials of Information Technology, Microcontroller Based System Design, Mechatronic System designs
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
