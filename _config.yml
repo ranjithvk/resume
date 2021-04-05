@@ -1,29 +1,39 @@
 # Site
-repository: gokulrajeeve/resume
+repository: ranjithvk/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Gokul Rajeeve
-title: B.Tech Mechatronics
-email: me@gokulrajeeve.com
-website: gokulrajeeve.com
+name: Ranjith Valiyodiyil Karunakaran
+title: Software Professional
+email: ranjith@valiyodiyil.com
+website: https://valiyodiyil.com/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-
-linkedin_username: gokulrajeeve
-
+twitter_username: ranjithvk
+github_username:  ranjithvk
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: jameswgrant
+linkedin_username: ranjith-karunakaran-68166a2
+# xing_username: jekyll
+# pinterest_username: jekyll
+youtube_username: ranjithvk
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: gokulrajeeve.com
+- title: valiyodiyil.com
   icon: fas fa-globe
-  url: https://gokulrajeeve.com
+  url: https://valiyodiyil.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -38,108 +48,70 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Gokul Rajeeve and I completed BTech in Mechatronics from Manipal Institute of Technology in 2020.  I am a technology enthusiast and would like to get involved in building systems.
+  Hi, my name's Ranjith Valiyodiyil Karunakaran. 
 
-  My interest areas are: <mark>Programming</mark>, <mark>Data Science</mark> and <mark>Robotics</mark>
+  I am most skilled in: <mark>Enterprise application architecture</mark> and <mark>Project Management</mark>
 
 content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: The Boring Company
+        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Manipal Institute of Technology
-        caption: 2016 - 2020
-        sub_title: BTech. in Mechatronic                                                                                                                 
+        title: Harvard University
+        caption: 2010 - 2013
+        sub_title: BSc Computer Science
         quote: >
-          Manipal University, Manipal, Karnataka
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Related Courses:** AI, Machine Vision and Image Processing, Robotic Dynamics and Control, Robotic Path Planning, Hydraulic and Pneumatic system, Essentials of Information Technology, Microcontroller Based System Design, Mechatronic System designs
-  - title: Technical Skills
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+  - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Langauges:**    C++, Python, MATLAB 
-      - **Web Technologies:**    HTML5, CSS3, Static Site Generators (Jekyll) 
-      - **Others:**    MySQL, DBMS, CAD, Lathe Operation, PLC, CNC , RHINO
-  - title: Skills
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Can adapt to diverse team environments
-      - Proficient in both oral and written communication skills
-      - Quick learner
-      - Problem solving and analytical skills
-  - title: Work Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Anand Track and Field
-        link: 
-        # link_text: boringcompany.com
-        sub_title: 
-        caption: 
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-            -	Co-ordinated with design team to develop CAD models. All models required to be within industrial guidelines.
-                - Discuses.
-                - Take off board.
-                - Hurdle stands.
-            -	Provided design improvements to brand logo for branding via CNC to accommodate provided dimensions.
-            -	Participated in manufacturing processes using lathes such as turning and facing for products.
-            -	Aided storage and packaging departments by providing more ideal storage and listing options for better workflow.
-      - layout: left
-        title: Delphi Technologies
-        link: 
-        # link_text: boringcompany.com
-        sub_title: 
-        caption: 
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-            -	Supported validation and inspection engineers for inspection of connectors used in commercial cars. 
-            -	Learned about various electronic components for automotive manufactured at the factory.
-            -	Built an understanding how connectors work within hybrid electric vehicles and its necessity.
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Designing and building a fully functional RC car for competitive racing
-        link: 
-        # link_text: boringcompany.com
-        sub_title: 
-        caption: 
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-            -	Successfully coordinated with team mates to deliver fully functional RC assembling and programming the car from scratch.
-            -	Worked on the transmitter-receiver to achieve fully wireless control of each motor independently.	
-            -	Debugged the circuitry to assure complete functionality. 
-            -	Developed working logic for RC car using differential drive algorithm.
-      - layout: left
-        title: Design and Analysis of low-cost haptic paddle for academic application
-        link: 
-        # link_text: boringcompany.com
-        sub_title: 
-        caption: 
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-            -	Haptic paddle was designed to achieve bidirectional haptic force feedback in both X and Y axis. This 2 DOF device allows the user to experience a wide range of virtual scenarios considering the single axis haptic paddle. We built an understanding of the impact of such devices when integrated in course curriculums to aid students with hand-on experience.
-            -	Kinematic equations were calculated, and position feedback was achieved.
-            -	Co-ordinated with team mate to develop codes and design paddle.
-            -	Carried out virtual tests to discover errors and optimize device.
-      - layout: left
-        title: Handwritten character recognition with Neural Network
-        link: 
-        # link_text: boringcompany.com
-        sub_title: 
-        caption: 
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-            -	Streaming alphabets via camera in real time and obtaining optical character recognition of the English alphabets using OpenCV.
-            -	Dataset was split into train set to train model and test set to evaluate performance of the model.
-            -	Worked on SVM for data classification.
-            -	Each iteration yielded favorable results, adding successful iterations to test set to perfect the neural network.
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
